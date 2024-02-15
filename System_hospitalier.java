@@ -36,11 +36,13 @@ public class System_hospitalier {
     private String analyserRequete(Requête requête) {
         
         return "requête analysée";
+        /* On voit que cette fonction renvoie du texte, indiquant qu'une requête a été analysé */
     }
 
     private String comparerDonnes() {
         
         return "Cluster trouvé";
+        /* On voit que cette fonction renvoie du texte, indiquant qu'un cluster a été trouvé */
     }
 
 }
